@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<Class>
+   <Name>First</Name>
+   <Sections>
+      <Section>
+         <Name>A</Name>
+         <Students>
+            <Student>Rohan</Student>
+            <Student>Mohan</Student>
+            <Student>Sohan</Student>
+            <Student>Lalit</Student>
+            <Student>Vinay</Student>
+         </Students>
+      </Section>
+      <Section>
+         <Name>B</Name>
+         <Students>
+            <Student>Robert</Student>
+            <Student>Julie</Student>
+            <Student>Kalie</Student>
+            <Student>Michael</Student>				
+         </Students>
+      </Section>
+   </Sections>
+</Class>
