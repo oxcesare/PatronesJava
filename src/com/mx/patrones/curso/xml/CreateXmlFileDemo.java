@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package CursoXML;
+package com.mx.patrones.curso.xml;
 
 
 import javax.xml.parsers.DocumentBuilderFactory;
